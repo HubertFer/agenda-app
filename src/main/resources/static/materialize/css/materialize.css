@@ -9093,7 +9093,6 @@ input[type=range]::-ms-thumb {
 	margin-bottom: 60px;
 }
 .botao_add{
-	floating-right;
-	position-center: align; 
+	float: right;
 }
 
